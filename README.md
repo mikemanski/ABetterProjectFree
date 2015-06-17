@@ -4,5 +4,5 @@ Simple Java client app to both watch and download videos, assisted by ProjectFre
 Notes:
 Currently, the only host this works with is vodlocker.
 This works with TV shows, but not movies.
-There is no error handling--if the host has deleted the video that is trying to be linked to, the program crashs. 
+There is no error handling--if the host has deleted the video that is trying to be linked to, or the user tries downloading without providing a valid file name, the program crashs. 
 Home button functionality is still buggy (duplicate windows), but still functional.
